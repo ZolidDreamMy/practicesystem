@@ -4,7 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Practice</title>
+    <title>ระบบรายงานผลการดำเนินงาน</title>
     <!-- plugins:css -->
     <link rel="stylesheet" href="assets/vendors/mdi/css/materialdesignicons.min.css">
     <link rel="stylesheet" href="assets/vendors/css/vendor.bundle.base.css">
@@ -29,15 +29,13 @@
 }
   </style>
   <body>
-    <div class="container-scroller">
+    <div>
       <!-- partial:partials/_navbar.html -->
       <nav class="navbar default-layout-navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
         <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
-          <h3 class="page-title">
-            <span class="page-title-icon bg-gradient-primary text-white mr-2">
-              <i class="mdi mdi-mouse"></i>
-            </span> Practice
-          </h3>
+          <h4 class="page-title">
+            ระบบรายงานผลการดำเนินงาน
+          </h4>
           <a class="navbar-brand brand-logo-mini" href="index.html"><img src="assets/images/logo-mini.svg" alt="logo" /></a>
         </div>
         <div class="navbar-menu-wrapper d-flex align-items-stretch">
@@ -65,7 +63,7 @@
               <h3 class="page-title">
                 <span class="page-title-icon bg-gradient-primary text-white mr-2">
                   <i class="mdi mdi-home"></i>
-                </span> Dashboard
+                </span> ระบบรายงานผลการดำเนินงาน
               </h3>
               <nav aria-label="breadcrumb">
                 <ul class="breadcrumb">
@@ -81,10 +79,10 @@
                 <div class="card bg-gradient-danger card-img-holder text-white">
                   <div class="card-body">
                     <img src="assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
-                    <h4 class="font-weight-normal mb-3">Weekly Sales <i class="mdi mdi-chart-line mdi-24px float-right"></i>
+                    <h4 class="font-weight-normal mb-3">
                     </h4>
-                    <h2 class="mb-5">$ 15,0000</h2>
-                    <h6 class="card-text">Increased by 60%</h6>
+                    <h2 class="mb-5">ฝ่ายบริหารทั่วไปและธุรการ</h2>
+                    <h6 class="card-text">คลิกเพื่อเข้าสู่ระบบ</h6>
                   </div>
                 </div>
               </div>
@@ -92,10 +90,10 @@
                 <div class="card bg-gradient-info card-img-holder text-white">
                   <div class="card-body">
                     <img src="assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
-                    <h4 class="font-weight-normal mb-3">Weekly Orders <i class="mdi mdi-bookmark-outline mdi-24px float-right"></i>
+                    <h4 class="font-weight-normal mb-3"> 
                     </h4>
-                    <h2 class="mb-5">45,6334</h2>
-                    <h6 class="card-text">Decreased by 10%</h6>
+                    <h2 class="mb-5">ฝ่ายส่งเสริมการเรียนรู้และให้บริการการศึกษา </h2>
+                    <h6 class="card-text">คลิกเพื่อเข้าสู่ระบบ</h6>
                   </div>
                 </div>
               </div>
